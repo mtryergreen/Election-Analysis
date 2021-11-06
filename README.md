@@ -37,9 +37,14 @@ Here is the code I used to add unique and additional names to the final delivera
 
 <img width="470" alt="Screen Shot 2021-11-05 at 11 51 08 PM" src="https://user-images.githubusercontent.com/89936913/140597109-65b3fbd8-64d8-4e22-a0f8-23203dc7b545.png">
 
-## Future & Further Use
+## Futher & Future Use
+Overall takeaways from this election: 
+- 396,711 votes were cast in this congressional election
+- Jefferson County held 38,855 (10.5%) of the votes; Denver County held 306,055 (82.8%) of the votes; and Arapahoe County held 24,801 (6.7%) of the votes
+- **Denver county had the largest percentage of votes**
+- Charles Stockham held 85,213 (23%) of the votes; Diana DeGette held 272,892 (73.8%) of votes; Raymon Doane held 11,606 (3.1%) of the votes
+- Diana DeGette held the largest percentage of votes with 73.8% of the total votes at 272,89
 
-There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
 This script can be used in the future for any election to deliver the same types of results as long as votes, voter's county names and the candidate options are included in the data. The script may even be modified to entertain differing variables, such as: 
 1. Electoral votes: depending on the election (those involving an electoral college), winning a majority of votes may not be enough. Instead, tracking what percentage of an electoral college each candidate has won could be a viable route to determining election status. This would involve the total votes for each county being put through a multiplier that would convert the value to reflect the total electoral votes granted from that populace. 
 2. Another way to track voters' preference would be to tally the votes that were **Not** for a specific candidate, or discern the least popular candidate from each county. In this case, the candidate with the fewest votes NOT for them would be most favorable. 
