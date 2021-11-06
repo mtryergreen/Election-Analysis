@@ -37,6 +37,10 @@ Here is the code I used to add unique and additional names to the final delivera
 
 <img width="470" alt="Screen Shot 2021-11-05 at 11 51 08 PM" src="https://user-images.githubusercontent.com/89936913/140597109-65b3fbd8-64d8-4e22-a0f8-23203dc7b545.png">
 
-## Election Audit Summary
+## Future & Further Use
 
 There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
+This script can be used in the future for any election to deliver the same types of results as long as votes, voter's county names and the candidate options are included in the data. The script may even be modified to entertain differing variables, such as: 
+1. Electoral votes: depending on the election (those involving an electoral college), winning a majority of votes may not be enough. Instead, tracking what percentage of an electoral college each candidate has won could be a viable route to determining election status. This would involve the total votes for each county being put through a multiplier that would convert the value to reflect the total electoral votes granted from that populace. 
+2. 
+
