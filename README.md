@@ -42,5 +42,5 @@ Here is the code I used to add unique and additional names to the final delivera
 There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
 This script can be used in the future for any election to deliver the same types of results as long as votes, voter's county names and the candidate options are included in the data. The script may even be modified to entertain differing variables, such as: 
 1. Electoral votes: depending on the election (those involving an electoral college), winning a majority of votes may not be enough. Instead, tracking what percentage of an electoral college each candidate has won could be a viable route to determining election status. This would involve the total votes for each county being put through a multiplier that would convert the value to reflect the total electoral votes granted from that populace. 
-2. 
+2. Another way to track voters' preference would be to tally the votes that were **Not** for a specific candidate, or discern the least popular candidate from each county. In this case, the candidate with the fewest votes NOT for them would be most favorable. 
 
