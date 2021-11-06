@@ -37,7 +37,7 @@ Here is the code I used to add unique and additional names to the final delivera
 
 <img width="470" alt="Screen Shot 2021-11-05 at 11 51 08 PM" src="https://user-images.githubusercontent.com/89936913/140597109-65b3fbd8-64d8-4e22-a0f8-23203dc7b545.png">
 
-## Futher & Future Use
+## Further & Future Use
 Overall takeaways from this election: 
 - 396,711 votes were cast in this congressional election
 - Jefferson County held 38,855 (10.5%) of the votes; Denver County held 306,055 (82.8%) of the votes; and Arapahoe County held 24,801 (6.7%) of the votes
